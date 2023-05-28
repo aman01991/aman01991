@@ -22,8 +22,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amanshroff9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanshroff9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-546235225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-546235225/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/imamansharraff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imamansharraff/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-kumar-546235225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-546235225/" height="30" width="40" /></a>
+<a href="https://instagram.com/imamansharraff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imamansharraff/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/7004781991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/7004781991/" height="30" width="40" /></a>
 </p>
 
