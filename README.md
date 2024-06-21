@@ -7,7 +7,7 @@
 </p>
   
   
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Full Stack developer from India 🇮🇳
   
   
 
@@ -15,7 +15,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 📫 How to reach me **asharraff786@gmail.com**
 
