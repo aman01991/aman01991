@@ -2,7 +2,7 @@
 <h5 align="center"><i>Passionate coder | Lifelong learner | Problem solver<i></h5>
 
 <p align = center>
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fman-working-on-laptop-icon-illustration-on-transparent-background-png%2F&psig=AOvVaw2GAU8UHiur7c-q__eLVcjS&ust=1719084730415000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjXu-i27YYDFQAAAAAdAAAAABAE" width = 1000 alt = "gif" >
+<img src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 1000 alt = "gif" >
 </img>
 </p>
   
