@@ -2,7 +2,7 @@
 <h5 align="center"><i>Passionate coder | Lifelong learner | Problem solver<i></h5>
 
 <p align = center>
-<img src = "https://png.pngtree.com/png-clipart/20230824/original/pngtree-man-at-work-with-laptop-picture-image_8381794.png" width = 800 alt = "gif" >
+<img src = "https://png.pngtree.com/png-clipart/20230824/original/pngtree-man-at-work-with-laptop-picture-image_8381794.png" width = 800 height = 500 alt = "gif" >
 </img>
 </p>
   
